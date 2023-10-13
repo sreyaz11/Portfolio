@@ -1,0 +1,11 @@
+.link-logo{
+    width: 20px !important;
+    height: 20px !important;
+}
+.iconn{
+    margin-left: 40px !important;
+}
+.social-links{
+    display: flex !important;
+    justify-content: center;
+}

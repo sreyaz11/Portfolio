@@ -1,0 +1,9 @@
+/* Navbar.css */  
+.custom-navbar{
+  background-color: #333;
+}
+
+.custom-text-color{
+  color: white !important;
+  font-size: large !important;
+}
